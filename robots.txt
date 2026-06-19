@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bordwan.github.io/official-site-leyu-com-cn-2/sitemap.xml
